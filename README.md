@@ -1,40 +1,40 @@
-<h1 align="center">Hi 👋, I'm Victor Iliya</h1>
-<h3 align="center">A cloud Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/3b1adfd706842f467d68b630e1dd141f.gif">
+Hi 👋 My name is Victor Iliya
+=============================
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsi12" alt="vsi12" /></a> </p>
+Cloud Engineer
+--------------
 
-- 🔭 I’m currently working on **an Intrusion Detection System**
+* 🌍  I'm based in Nigeria
+* 🖥️  See my portfolio at [My Portfolio](http://victoriliya.com)
+* ✉️  You can contact me at [victoriliya15@gmail.com](mailto:victoriliya15@gmail.com)
+* 🧠  I'm learning DevOps
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I play tennis on the moon every Tuesdays
 
-- 🌱 I’m currently learning **AWS, Linux, Terraform**
+### Skills
 
-- 👨‍💻 All of my projects are available at [https://victoriliya15.com](https://victoriliya15.com)
 
-- 📝 I regularly write articles on [https://dev.to/victoriliya](https://dev.to/victoriliya)
-
-- 💬 Ask me about **AWS**
-
-- 📫 How to reach me **victoriliya15@gmail.com**
-
-- ⚡ Fun fact **I play tennis on the moon every Tuesdays**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/victoriliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="victoriliya" height="30" width="40" /></a>
-<a href="https://twitter.com/non_existnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="non_existnt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/victor-iliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-iliya" height="30" width="40" /></a>
-<a href="https://hashnode.com/victoriliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="victoriliya" height="30" width="40" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsi12&show_icons=true&locale=en&layout=compact" alt="vsi12" /></p>
+### Socials
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsi12&show_icons=true&locale=en" alt="vsi12" /></p>
+<p align="left"> <a href="https://www.dev.to/victoriliya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/VSI12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://victoriliya.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/victor-iliya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsi12&" alt="vsi12" /></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/VSI12"><img src="https://github-readme-stats.vercel.app/api?username=VSI12&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="VSI12's GitHub stats" /></a>
+
+<a href="http://www.github.com/VSI12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VSI12&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/VSI12"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VSI12&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/VSI12" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSI12&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/VSI12/IDS-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VSI12&repo=IDS-Project&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/VSI12/Portfolio_v2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VSI12&repo=Portfolio_v2&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
