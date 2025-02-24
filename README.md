@@ -3,7 +3,7 @@
 
 ## About Me
 
-Welcome to my GitHub! I’m Victor Iliya, an aspiring DevOps engineer with a strong focus on cloud-native architectures, automation, and container orchestration. I’m passionate about developing scalable and efficient solutions in the cloud and contributing to open-source tools.
+Welcome to my GitHub! I’m Victor Iliya, a cloud/DevOps engineer with a strong focus on cloud-native architectures, automation, and container orchestration. I’m passionate about developing scalable and efficient solutions in the cloud and contributing to open-source tools.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://victoriliya.com)
