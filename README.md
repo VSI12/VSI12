@@ -65,14 +65,3 @@ Welcome to my GitHub! I'm **Victor Iliya**, a DevOps engineer passionate about b
 </div>
 
 ---
-
-## 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/VSI12/Intrusion-Detection-System">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VSI12&repo=Intrusion-Detection-System&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true" />
-  </a>
-  <a href="https://github.com/VSI12/Portfolio_v0">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VSI12&repo=Portfolio_v0&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true" />
-  </a>
-</div>
